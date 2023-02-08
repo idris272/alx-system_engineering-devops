@@ -1,1 +1,3 @@
-0 string SCHOOL School data file
+#!/bin/bash
+echo "0 string SCHOOL School data file" > school.mgc
+echo "Magic file created successfully at $(pwd)/school.mgc"
